@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<!-- Converted from svc.conf by svcconf-convert.pl -->
+<ACE_Svc_Conf>
+ <static id="Svc_Manager" params="-d -p23"/>
+ <!-- dynamic Gateway Service_Object * ./Gateway:_make_Gateway() active "-b -d -v -w 60 -c C|S -a C|S -P connection_config -C consumer_config" -->
+</ACE_Svc_Conf>

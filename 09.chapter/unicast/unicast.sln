@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unicast", "unicast.vcproj", "{47438B9F-D363-424D-B8A1-60C9D27BCE9B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "echo_unicast", "..\echo_unicast\echo_unicast.vcproj", "{37A7E518-CDD6-4700-A6A4-74EDEC2148DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47438B9F-D363-424D-B8A1-60C9D27BCE9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47438B9F-D363-424D-B8A1-60C9D27BCE9B}.Debug|Win32.Build.0 = Debug|Win32
+		{47438B9F-D363-424D-B8A1-60C9D27BCE9B}.Release|Win32.ActiveCfg = Release|Win32
+		{47438B9F-D363-424D-B8A1-60C9D27BCE9B}.Release|Win32.Build.0 = Release|Win32
+		{37A7E518-CDD6-4700-A6A4-74EDEC2148DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37A7E518-CDD6-4700-A6A4-74EDEC2148DC}.Debug|Win32.Build.0 = Debug|Win32
+		{37A7E518-CDD6-4700-A6A4-74EDEC2148DC}.Release|Win32.ActiveCfg = Release|Win32
+		{37A7E518-CDD6-4700-A6A4-74EDEC2148DC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

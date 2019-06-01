@@ -1,0 +1,6 @@
+stream HA_Stream { remove HA_Xmit remove HA_Encryptor }
+stream HA_Stream { dynamic HA_Encryptor Module* :HA_Encryptor() dynamic HA_Xmit Module* :HA_Xmit() }
+stream HA_Stream { dynamic HA_Encryptor Module* :HA_Encryptor() "-c" dynamic HA_Xmit Module* :HA_Xmit() "-c" }
+stream HA_Stream { suspend HA_Encryptor suspend HA_Compressor }
+stream HA_Stream { resume HA_Encryptor resume HA_Compressor }
+stream HA_Stream { remove HA_Encryptor remove HA_Compressor }

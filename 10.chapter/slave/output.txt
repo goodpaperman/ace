@@ -1,0 +1,4 @@
+(3584) started at  13:45:16.359000, parent is -1
+(3584) the private environment is /that/seems/to/be/it
+(3584) Executed: echo abc | grep a
+

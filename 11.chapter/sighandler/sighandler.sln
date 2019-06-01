@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sighandler", "sighandler.vcproj", "{8A1B65BF-B74C-4792-8E70-9E365C5DB995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1B65BF-B74C-4792-8E70-9E365C5DB995}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A1B65BF-B74C-4792-8E70-9E365C5DB995}.Debug|Win32.Build.0 = Debug|Win32
+		{8A1B65BF-B74C-4792-8E70-9E365C5DB995}.Release|Win32.ActiveCfg = Release|Win32
+		{8A1B65BF-B74C-4792-8E70-9E365C5DB995}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

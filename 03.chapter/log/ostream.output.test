@@ -1,0 +1,57 @@
+LM_INFO    Hi Mom
+TRACE    (3820) enter foo: "e:\codes\21.stephen huston.the ace programmer's guide\03.chapter\log\log.cpp" (129)
+LM_NOTICE        Howdy Pardner
+start format test: 
+%A = 1213894638.046875
+%c = a
+%C = hello world
+%c = a
+%C = h
+%i/d = 1, 2
+%I =         nihaoma?
+%e/E/f/F/g/G = 3.140000e-008, 3.140000E-008, 0.000000, , 3.14e-008, 3.14E-008.
+%e/E = 3.140000e-008, 3.140000E-008.
+%g/G = 3.14e-008, 3.14E-008.
+%f/F = 0.000000, .
+%l = 153
+%M = LM_SHUTDOWN
+%M = LM_DEBUG
+%M = LM_INFO
+%M = LM_NOTICE
+%M = LM_WARNING
+%M = LM_STARTUP
+%M = LM_ERROR
+%M = LM_CRITICAL
+%M = LM_ALERT
+%M = LM_EMERGENCY
+%m = Operation not permitted
+%N = e:\codes\21.stephen huston.the ace programmer's guide\03.chapter\log\log.cpp
+%n = e:\codes\21.stephen huston.the ace programmer's guide\03.chapter\log\Debug\log.exe
+%o = 13
+%P = 3800
+%p = hello world: Operation not permitted
+%Q = 1234567890987654321
+LM_ERROR        display an error.
+%r = 
+%R = 1234
+%S = signal 1
+%s = good citizen
+%s = good citizen
+%s = g
+%T =  00:57:18.046000
+%D = Fri Jun 20 2008 00:57:18.046000
+%t = 3820
+%u = 4294967295
+%w = a
+%W = Hello World
+%w = a
+%W = 
+%x/X = 12f818, 12F818
+%@ = 0012F818
+end format test.
+TRACE    (3820) leave foo: "e:\codes\21.stephen huston.the ace programmer's guide\03.chapter\log\log.cpp" (196)
+LM_DEBUG    Goodnight
+HEX DUMP:  - HEXDUMP 32 bytes
+48 65 6c 6c 6f 20 57 6f  72 6c 64 2c 20 4e 69 20   Hello World, Ni 
+48 61 6f 20 4d 61 3f 00  00 00 00 00 00 00 00 00   Hao Ma?.........
+TRACE (3820) leave main: "e:\codes\21.stephen huston.the ace programmer's guide\03.chapter\log\log.cpp" (116)

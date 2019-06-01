@@ -1,0 +1,2 @@
+unmanaged.exe -d
+pause

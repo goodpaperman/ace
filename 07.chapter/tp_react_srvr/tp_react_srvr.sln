@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tp_react_srvr", "tp_react_srvr.vcproj", "{BC1A0031-6EF8-46C2-8E4D-079CEAD4487C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mult_clnt", "..\mult_clnt\mult_clnt.vcproj", "{F3A1F329-B0B9-443C-B3CF-680F0D444F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1A0031-6EF8-46C2-8E4D-079CEAD4487C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC1A0031-6EF8-46C2-8E4D-079CEAD4487C}.Debug|Win32.Build.0 = Debug|Win32
+		{BC1A0031-6EF8-46C2-8E4D-079CEAD4487C}.Release|Win32.ActiveCfg = Release|Win32
+		{BC1A0031-6EF8-46C2-8E4D-079CEAD4487C}.Release|Win32.Build.0 = Release|Win32
+		{F3A1F329-B0B9-443C-B3CF-680F0D444F34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3A1F329-B0B9-443C-B3CF-680F0D444F34}.Debug|Win32.Build.0 = Debug|Win32
+		{F3A1F329-B0B9-443C-B3CF-680F0D444F34}.Release|Win32.ActiveCfg = Release|Win32
+		{F3A1F329-B0B9-443C-B3CF-680F0D444F34}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

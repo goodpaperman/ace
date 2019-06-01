@@ -1,0 +1,2 @@
+map.exe
+pause

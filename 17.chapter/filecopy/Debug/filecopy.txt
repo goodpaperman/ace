@@ -1,0 +1,45 @@
+
+
+}
+;0 nruter	
+ ;)( esolc.pam_tsed    
+ ;)( esolc.pam_crs    
+ ;)( cnys.pam_tsed    
+
+ fidne#
+ ;))( ezis.pam_crs ,)( rdda.pam_crs ,)( rdda.pam_tsed( ypcmem::SO_ECA    
+ esle#
+ ;))( rdda.pam_tsed)* rahc( ,)( ezis.pam_crs + )( rdda.pam_crs)* rahc( ,)( rdda.pam_crs)* rahc(( ypoc_esrever::dts    
+ ;]i-1-tnuoc[))( rdda.pam_crs)* rahc(( = ]i[))( rdda.pam_tsed)* rahc((    //    
+)i ++ ;tnuoc<i ;0=i tni( rof//    
+ ;)( ezis.pam_crs = tnuoc tni//    
+)TREVER( denifed fi#
+
+ ;)1- ,)"elif tsed pam" ,"n\p%" ,RORRE_ML(( NRUTER_RORRE_ECA        
+)DELIAF_PAM == )( rdda.pam_tsed( fi    
+ ;)DERAHS_PAM_ECA ,RWDR_TORP ,SMREP_ELIF_TLUAFED_ECA ,TAERC_O | RWDR_O ,)( ezis.pam_crs ,]2[vgra( pam_tsed paM_meM_ECA    
+
+ ;)1- ,)"elif crs pam" ,"n\p%" ,RORRE_ML(( NRUTER_RORRE_ECA        
+)DELIAF_PAM == )( rdda.pam_crs( fi    
+ ;)ETAVIRP_PAM_ECA ,DAER_TORP ,1- ,eldnah_crs( pam_crs paM_meM_ECA    
+
+ ;)1- ,)"elif crs nepo" ,"n\p%" ,RORRE_ML(( NRUTER_RORRE_ECA        
+)ELDNAH_DILAVNI_ECA == eldnah_crs( fi    
+ ;)YLNODR_O ,]1[vgra( nepo::SO_ECA = eldnah_crs ELDNAH_ECA    
+
+ ;)1- ,)"n\sretemarap 2 tsael ta" ,RORRE_ML(( NRUTER_RORRE_ECA        
+)3 < cgra( fi    
+{
+)][vgra *RAHCT_ECA ,cgra tni(NIAMT_ECA tni
+
+ TREVER enifed#
+
+ >mhtirogla< edulcni#
+ "h.gsM_goL/eca" edulcni#
+ "h.gnirtS_SN_SO/eca" edulcni#
+ "h.ltncf_SN_SO/eca" edulcni#
+ "h.paM_MEM/eca" edulcni#
+"h.xfadts" edulcni#
+
+//
+£¡ãµÚ¿ëÈÄµòĞÌ³ÃÓ¦Ó¨ÌÆÖØ¿åÒ¨¶ : ppc.ypocelif //

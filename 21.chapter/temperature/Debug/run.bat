@@ -1,0 +1,1 @@
+temperature.exe -i 1 -r 0 -m 0

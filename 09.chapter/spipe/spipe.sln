@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spipe", "spipe.vcproj", "{89647458-F170-4DDC-8D11-AB48451E0491}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spipe_echo", "..\spipe_echo\spipe_echo.vcproj", "{FEBCBE6B-3BB0-4917-98CE-4DBBC42F8AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89647458-F170-4DDC-8D11-AB48451E0491}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89647458-F170-4DDC-8D11-AB48451E0491}.Debug|Win32.Build.0 = Debug|Win32
+		{89647458-F170-4DDC-8D11-AB48451E0491}.Release|Win32.ActiveCfg = Release|Win32
+		{89647458-F170-4DDC-8D11-AB48451E0491}.Release|Win32.Build.0 = Release|Win32
+		{FEBCBE6B-3BB0-4917-98CE-4DBBC42F8AC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FEBCBE6B-3BB0-4917-98CE-4DBBC42F8AC4}.Debug|Win32.Build.0 = Debug|Win32
+		{FEBCBE6B-3BB0-4917-98CE-4DBBC42F8AC4}.Release|Win32.ActiveCfg = Release|Win32
+		{FEBCBE6B-3BB0-4917-98CE-4DBBC42F8AC4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+        Howdy Pardner
+   (3480) leaving foo
+   (3480) calling ACE_Singleton<TYPE, ACE_LOCK>::instance in file `e:\codes\ace_wrappers\ace\singleton.cpp' on line 56
+   (3480) leaving ACE_Singleton<TYPE, ACE_LOCK>::instance
+        Howdy Pardner
+   (1364) leaving foo
+   (1364) calling ACE_Singleton<TYPE, ACE_LOCK>::instance in file `e:\codes\ace_wrappers\ace\singleton.cpp' on line 56
+   (1364) leaving ACE_Singleton<TYPE, ACE_LOCK>::instance
+        Howdy Pardner
+   (184) leaving foo
+   (184) calling ACE_Singleton<TYPE, ACE_LOCK>::instance in file `e:\codes\ace_wrappers\ace\singleton.cpp' on line 56
+   (184) leaving ACE_Singleton<TYPE, ACE_LOCK>::instance
+        Howdy Pardner
+   (2916) leaving foo
+   (2916) calling ACE_Singleton<TYPE, ACE_LOCK>::instance in file `e:\codes\ace_wrappers\ace\singleton.cpp' on line 56
+   (2916) leaving ACE_Singleton<TYPE, ACE_LOCK>::instance
+        Howdy Pardner
+   (768) leaving foo
+   (768) calling ACE_Singleton<TYPE, ACE_LOCK>::instance in file `e:\codes\ace_wrappers\ace\singleton.cpp' on line 56
+   (768) leaving ACE_Singleton<TYPE, ACE_LOCK>::instance
+        Howdy Pardner
+   (2488) leaving foo
+   (2488) calling ACE_Singleton<TYPE, ACE_LOCK>::instance in file `e:\codes\ace_wrappers\ace\singleton.cpp' on line 56
+   (2488) leaving ACE_Singleton<TYPE, ACE_LOCK>::instance
+        Howdy Pardner
+   (1496) leaving foo
+   (1496) calling ACE_Singleton<TYPE, ACE_LOCK>::instance in file `e:\codes\ace_wrappers\ace\singleton.cpp' on line 56
+   (1496) leaving ACE_Singleton<TYPE, ACE_LOCK>::instance
+        Howdy Pardner
+   (3608) leaving foo
+   (3608) calling ACE_Singleton<TYPE, ACE_LOCK>::instance in file `e:\codes\ace_wrappers\ace\singleton.cpp' on line 56
+   (3608) leaving ACE_Singleton<TYPE, ACE_LOCK>::instance

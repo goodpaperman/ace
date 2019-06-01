@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dbllist", "dbllist.vcproj", "{3E420161-ED38-4828-A8A3-4DA3BD1A3B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E420161-ED38-4828-A8A3-4DA3BD1A3B7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E420161-ED38-4828-A8A3-4DA3BD1A3B7F}.Debug|Win32.Build.0 = Debug|Win32
+		{3E420161-ED38-4828-A8A3-4DA3BD1A3B7F}.Release|Win32.ActiveCfg = Release|Win32
+		{3E420161-ED38-4828-A8A3-4DA3BD1A3B7F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
